@@ -1,26 +1,20 @@
 [
     {   "id": 0, 
-        "station": "ByteFM",
-        "desc": "ByteFM ist moderiertes Musikprogramm, fernab vom Mainstream",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ByteFM.svg/1200px-ByteFM.svg.png",
-        "stream": "https://bytefm--di--nacs-ice-01--01--cdn.cast.addradio.de/bytefm/main/mid/stream.mp3"
+        "station": "DLF",
+        "desc": "Deutschlandfunk Radio",
+        "logo": "/img/dlf.jpg",
+        "stream": "https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web"
     },
     {   "id": 1, 
-        "station": "Radio 10",
-        "desc": "Radio 10 is one of the oldest commercial radio stations of the Netherlands.",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Radio_10_logo_2019.svg/1024px-Radio_10_logo_2019.svg.png",
-        "stream": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3"
+        "station": "DLF Kultur",
+        "desc": "Deutschlandfunk Kultur",
+        "logo": "/img/dlk.jpg",
+        "stream": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web"
     },
     {   "id": 2, 
-        "station": "KCRW",
-        "desc": "KCRW is driven by the spirit of Los Angeles",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/KCRW_89.9FM_logo.svg/1034px-KCRW_89.9FM_logo.svg.png",
-        "stream": "http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air_internet_radio"
-    },
-    {   "id": 3, 
-        "station": "CKUT",
-        "desc": "CKUT is a non-profit, campus-community radio station based at McGill University",
-        "logo": "http://music.ckut.ca/wp-content/uploads/2012/01/ckut_logo-1024x625.jpg",
-        "stream": "https://ckut.out.airtime.pro/ckut_a"
+        "station": "DLF Nova",
+        "desc": "Deuschtlandfunk Nova",
+        "logo": "/img/dln.jpg",
+        "stream": "https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web"
     }
 ]
